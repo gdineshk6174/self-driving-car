@@ -1,5 +1,5 @@
 # self-driving-car
-Self driving car steering angle prediction based on image recognition by Shuyang Du , Haoli Guo, Andrew Simpson.
+Self driving car steering angle prediction based on image recognition .
 
 data- SulleyChen(https://github.com/SullyChen/Autopilot-TensorFlow)
 
